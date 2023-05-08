@@ -44,3 +44,10 @@ Tabela informująca jakie zasoby są potrzebne przy danym projekcie pola w tej t
 Dzięki tej tabeli wiemy jakie zmiany poczynił użytkownik.
 
 
+# SCHEMAT Z MIGROWNAEJ BAZY.
+
+![image](https://user-images.githubusercontent.com/50013175/236953922-384ba3c9-554e-4dae-9549-8de1f2e986cd.png) 
+
+# SCHEMAT Z PROJEKTU
+
+![image](https://user-images.githubusercontent.com/50013175/236954069-3b2c3e1d-7fa3-4f64-b059-6204ce09da7c.png)
