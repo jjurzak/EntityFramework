@@ -13,7 +13,7 @@ namespace CodeFirst.Models
         public string Opis { get; set; }
         public DateTime data_startu { get; set; }
         public DateTime? data_zakonczenia { get; set; }
-        public int id_kierownika_projektu { get; set; }
+        public int? id_kierownika_projektu { get; set; }
         public string status { get; set; }
 
         
